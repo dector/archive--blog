@@ -21,15 +21,15 @@ domain: dector.github.io
 #
 
 # Used in header meta tags and the site feed. (required to generate a valid feed)
-author: author
+author: dector
 # A description of your site to be used in header meta tags.
-description:
+description: android gamedev haxe flixel development games
 # Used in the site feed.
-email:
+email: dector9@gmail.com
 # Your site's subtitle.
-subtitle: subtitle
+subtitle: 
 # Your site's title. (required to generate a valid feed)
-title: title
+title: Existential coder
 
 
 #
@@ -37,7 +37,7 @@ title: title
 #
 
 # If you'd like to enable Google Analytics for your site, set this to your tracking code.
-analytics:
+analytics: UA-33386330-4
 
 
 #
