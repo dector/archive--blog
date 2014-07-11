@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Existential coder</title>
+    
+    <link rel="alternate" href="http://dector.github.io/blog/" />
+    <link rel="self" href="http://dector.github.io/blog/feed.xml" type="application/atom+xml" />
+    <id>http://dector.github.io/blog/</id>
+    <updated>2014-07-11T21:53:40Z</updated>
+    
+    <author>
+        <name>dector</name>
+        <email>dector9@gmail.com</email>
+        <uri>http://dector.github.io/blog/</uri>
+    </author>
+    
+    
+        <entry>
+            <title>Haxe roundups</title>
+            <link rel="alternate" href="http://dector.github.io/blog/2014/07/12/Haxe-roundups/" type="text/html" />
+            <id>http://dector.github.io/blog/2014/07/12/Haxe-roundups/</id>
+            <updated>2014-07-12T21:53:00Z</updated>
+            
+            <summary type="html">Tonight I&amp;#39;m gonna point you at awesome website for Haxe users, lovers or just curious programmers.</summary>
+            <content type="html">&lt;p&gt;Tonight I&amp;#39;m gonna point you at awesome website for Haxe users, lovers or just curious programmers.&lt;/p&gt;
+
+&lt;p&gt;Meet the &lt;a href=&#34;http://haxe.io/&#34;&gt;haxe.io&lt;/a&gt; by &lt;a href=&#34;https://github.com/skial&#34;&gt;Skial Bainn&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/8-MprUdwu65T2AEWUm5ot-rVCNJGqD-IQOU-VxuwzD5k0Z534VWvZVaBhz5jN3ywwMSqIA&#34; alt=&#34;haxe.io screenshot&#34;&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;This is great resource with regular Haxe roundups. New, libraries, sources, tutorials, thoughts and lots of other interesting stuff.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/PFIFz2r4bI7EapakjOTdc7g7JObT-EM_Gal5jm3Del1T_QpgKYIaa80ko0jdDXP48MTQwQ&#34; alt=&#34;haxe.io page screenshot&#34;&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;BTW, if you created or found something that may be interesting for other Haxe guys don&amp;#39;t hesitate to propose it for next roundup at &lt;a href=&#34;https://github.com/skial/haxe.io/issues&#34;&gt;haxe.io github issues&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Check &lt;a href=&#34;http://haxe.io/&#34;&gt;haxe.io&lt;/a&gt; now and you&amp;#39;ll definelly love it.&lt;/p&gt;
+</content>
+        </entry>
+    
+</feed>
