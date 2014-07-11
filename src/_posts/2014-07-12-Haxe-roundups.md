@@ -1,7 +1,7 @@
 ---
 layout: post.html
 title: Haxe roundups
-tags: [haxe, recommendations, resources, digest]
+tags: [haxe, recommendations, resources, digest, development]
 ---
 
 Tonight I'm gonna point you at awesome website for Haxe users, lovers or just curious programmers.
@@ -17,6 +17,7 @@ This is great resource with regular Haxe roundups. New, libraries, sources, tuto
 BTW, if you created or found something that may be interesting for other Haxe guys don't hesitate to propose it for next roundup at [haxe.io github issues].
 
 Check [haxe.io] now and you'll definelly love it.
+
 
 [haxe.io]: http://haxe.io/
 [Skial Bainn]: https://github.com/skial
